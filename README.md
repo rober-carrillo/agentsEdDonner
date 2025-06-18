@@ -1,4 +1,4 @@
-# This is a cloned repo from https://github.com/ed-donner/agents, for my personal ease of work across devices.
+# This is a forked repo from https://github.com/ed-donner/agents
 
 ## Master AI Agentic Engineering -  build autonomous AI Agents
 
